@@ -13,3 +13,6 @@ dist/
 # Virtual envs
 venv/
 .env/
+
+# Test files
+test_*.py
